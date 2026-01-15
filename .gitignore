@@ -2,5 +2,3 @@
 
 .DS_Store
 *.code-workspace
-git rm --cached .DS_Store
-git rm --cached *.code-workspace
